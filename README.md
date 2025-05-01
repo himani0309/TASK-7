@@ -13,5 +13,4 @@ This project connects to a SQLite database and fetches basic sales summaries lik
 1. Make sure `sales_data.db` exists (run `create_db.py` first).
 2. Run `sales_summary.py` to print and visualize data.
 
-## Sample Output
-![sales_chart](sales_chart.png)
+## Sample Output(attached in this task file )
